@@ -4,3 +4,4 @@ This is the third line
 This is new line by branch
 to check the conflicts
 new
+new 2
